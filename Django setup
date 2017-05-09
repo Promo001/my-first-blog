@@ -1,0 +1,8 @@
+Django setup:
+	- 	$ mkdir djangogirls
+		$ cd djangogirls
+	-$ python3 -m venv myvenv
+	-$ source myvenv/bin/activate
+	-(myvenv) ~$ pip install --upgrade pip
+	-pip install django
+	
